@@ -4,3 +4,4 @@ A curated set of links that I have found helpful throughout my tech career. I wi
 ## Git
 
 * [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
+* [My favourite Git commit](https://dhwthompson.com/2019/my-favourite-git-commit)
