@@ -1,6 +1,14 @@
 # link-a-palooza
 A curated set of links that I have found helpful throughout my tech career. I will do my best to keep these updated, but hey no one is perfect 😎 .
 
+- [link-a-palooza](#link-a-palooza)
+  - [Specific Technologies](#specific-technologies)
+    - [Git](#git)
+  - [SDLC](#sdlc)
+    - [Code Reviews](#code-reviews)
+  - [Leadership](#leadership)
+  - [Career](#career)
+
 ## Specific Technologies
 ### Git
 
