@@ -2,6 +2,7 @@ A curated set of links that I have found helpful throughout my tech career. I wi
 
 - [Specific Technologies](#specific-technologies)
   - [Git](#git)
+  - [Husky](#husky)
 - [SDLC](#sdlc)
   - [Code Reviews](#code-reviews)
 - [Leadership](#leadership)
@@ -12,6 +13,9 @@ A curated set of links that I have found helpful throughout my tech career. I wi
 
 * 📄 [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 * 📄 [My favourite Git commit](https://dhwthompson.com/2019/my-favourite-git-commit)
+
+### Husky
+* 📄 [Using Husky - Husky docs](https://typicode.github.io/husky/#/)
 
 ## SDLC
 ### Code Reviews
