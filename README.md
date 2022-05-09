@@ -13,6 +13,7 @@ A curated set of links that I have found helpful throughout my tech career. I wi
 
 * 📄 [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 * 📄 [My favourite Git commit](https://dhwthompson.com/2019/my-favourite-git-commit)
+* 📄 [Dangit! Git - Really great resource for when you think you messed up git](https://dangitgit.com/)
 
 ### Husky
 * 📄 [Using Husky - Husky docs](https://typicode.github.io/husky/#/)
