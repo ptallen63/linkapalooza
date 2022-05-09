@@ -25,7 +25,7 @@ A curated set of links that I have found helpful throughout my tech career. I wi
 ## Leadership
 * 📄 [Pitfals of Being a new leader](https://suzansfieldnotes.substack.com/p/the-new-vp?s=r)
 * 📄 [The Dunning-Kruger Effect: Cautionary Tale for Leaders](https://www.verywellmind.com/an-overview-of-the-dunning-kruger-effect-4160740)
-* 📄 [Why Inclusing Leaders are Good For Organizations and How to Become One](https://hbr.org/2019/03/why-inclusive-leaders-are-good-for-organizations-and-how-to-become-one)
+* 📄 [Why Inclusive Leaders are Good For Organizations and How to Become One](https://hbr.org/2019/03/why-inclusive-leaders-are-good-for-organizations-and-how-to-become-one)
 
 ## Career
 * 📄 [Staff+ Engineering Archetypes](https://staffeng.com/guides/staff-archetypes)
