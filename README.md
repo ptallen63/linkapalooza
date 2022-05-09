@@ -7,6 +7,8 @@ A curated set of links that I have found helpful throughout my tech career. I wi
   - [Code Reviews](#code-reviews)
 - [Leadership](#leadership)
 - [Career](#career)
+- [Productivity](#productivity)
+  - [Email](#email)
 
 ## Specific Technologies
 ### Git
@@ -30,3 +32,7 @@ A curated set of links that I have found helpful throughout my tech career. I wi
 
 ## Career
 * 📄 [Staff+ Engineering Archetypes](https://staffeng.com/guides/staff-archetypes)
+
+## Productivity
+### Email
+📺 [How I answer emails in 17 min a day - Tiago Forte's Email System](https://www.youtube.com/watch?v=uXdEVeoGRRc)
