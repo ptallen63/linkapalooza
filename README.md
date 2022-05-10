@@ -1,6 +1,7 @@
 A curated set of links that I have found helpful throughout my tech career. I will do my best to keep these updated, but hey no one is perfect 😎 .
 
 - [Specific Technologies](#specific-technologies)
+  - [Command Line Tools](#command-line-tools)
   - [Git](#git)
   - [Husky](#husky)
 - [SDLC](#sdlc)
@@ -11,6 +12,13 @@ A curated set of links that I have found helpful throughout my tech career. I wi
   - [Email](#email)
 
 ## Specific Technologies
+### Command Line Tools
+* 🐙 [exa - A new and improved ls](https://github.com/ogham/exa)
+* 🐙 [zoxide - a smarter cd command](https://github.com/ajeetdsouza/zoxide)
+* 📄 [Mightnight Commander](https://midnight-commander.org/)
+* 🐙 [fzf - General Purpose Command Line Fuzzy Finder](https://github.com/junegunn/fzf)
+* 🐙 [Bat - The new way to `cat` files](https://github.com/sharkdp/bat)
+
 ### Git
 
 * 📄 [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
