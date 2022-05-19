@@ -29,6 +29,7 @@ A curated set of links that I have found helpful throughout my tech career. I wi
 - 📄 [My favourite Git commit](https://dhwthompson.com/2019/my-favourite-git-commit)
 
 - 📄 [Dangit! Git - Really great resource for when you think you messed up git](https://dangitgit.com/)
+- 📄 [Conventional Commits](https://medium.com/neudesic-innovation/conventional-commits-a-better-way-78d6785c2e08)
 
 ### Husky
 
