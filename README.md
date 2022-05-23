@@ -5,6 +5,7 @@ A curated set of links that I have found helpful throughout my tech career. I wi
   - [Git](#git)
   - [Husky](#husky)
 - [SDLC](#sdlc)
+  - [Library Development](#library-development)
   - [Code Reviews](#code-reviews)
 - [Leadership](#leadership)
 - [Career](#career)
@@ -36,6 +37,10 @@ A curated set of links that I have found helpful throughout my tech career. I wi
 - 📄 [Using Husky - Husky docs](https://typicode.github.io/husky/#/)
 
 ## SDLC
+
+### Library Development
+
+- 📄 [Building a Typescript Library](https://www.tsmean.com/articles/how-to-write-a-typescript-library/)
 
 ### Code Reviews
 
