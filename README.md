@@ -13,6 +13,7 @@ A curated set of links that I have found helpful throughout my tech career. I wi
   - [Email](#email)
 - [Tools](#tools)
   - [Collaboration](#collaboration)
+  - [Web Libraries](#web-libraries)
 
 ## Specific Technologies
 
@@ -71,3 +72,7 @@ A curated set of links that I have found helpful throughout my tech career. I wi
 
 - 🌐 [Witeboard.com - Simple whiteboarding tool](https://witeboard.com/)
 - 🌐 [Untools - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.](https://untools.co/)
+
+### Web Libraries
+
+- 🐙 [Partytown - Solution for offshoring 3rd party scripts to web worker](https://github.com/BuilderIO/partytown)
