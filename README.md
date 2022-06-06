@@ -15,6 +15,7 @@ A curated set of links that I have found helpful throughout my tech career. I wi
   - [Collaboration](#collaboration)
   - [Web Libraries](#web-libraries)
   - [UI Libraries](#ui-libraries)
+- [Architecture](#architecture)
 
 ## Specific Technologies
 
@@ -81,3 +82,7 @@ A curated set of links that I have found helpful throughout my tech career. I wi
 ### UI Libraries
 
 - 🌐 [Mantine](https://mantine.dev/pages/basics/)
+
+## Architecture
+
+- 📺 [10 Software Design Patterns](https://www.youtube.com/watch?v=tv-_1er1mWI)
