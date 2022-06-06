@@ -14,6 +14,7 @@ A curated set of links that I have found helpful throughout my tech career. I wi
 - [Tools](#tools)
   - [Collaboration](#collaboration)
   - [Web Libraries](#web-libraries)
+  - [UI Libraries](#ui-libraries)
 
 ## Specific Technologies
 
@@ -76,3 +77,7 @@ A curated set of links that I have found helpful throughout my tech career. I wi
 ### Web Libraries
 
 - 🐙 [Partytown - Solution for offshoring 3rd party scripts to web worker](https://github.com/BuilderIO/partytown)
+
+### UI Libraries
+
+- 🌐 [Mantine](https://mantine.dev/pages/basics/)
