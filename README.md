@@ -1,3 +1,5 @@
+<iframe src="https://giphy.com/embed/NVBR6cLvUjV9C" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/link-the-legend-of-zelda-NVBR6cLvUjV9C">via GIPHY</a></p>
+
 A curated set of links that I have found helpful throughout my tech career. I will do my best to keep these updated, but hey...ga no one is perfect 😎 .
 
 [Table of Contents](#table-of-contents)
