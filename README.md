@@ -1,4 +1,4 @@
-A curated set of links that I have found helpful throughout my tech career. I will do my best to keep these updated, but hey no one is perfect 😎 .
+A curated set of links that I have found helpful throughout my tech career. I will do my best to keep these updated, but hey... no one is perfect 😎 .
 
 - [Specific Technologies](#specific-technologies)
   - [Command Line Tools](#command-line-tools)
