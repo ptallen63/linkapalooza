@@ -1,22 +1,6 @@
 A curated set of links that I have found helpful throughout my tech career. I will do my best to keep these updated, but hey...ga no one is perfect 😎 .
 
-- [Specific Technologies](#specific-technologies)
-  - [Command Line Tools](#command-line-tools)
-  - [Git](#git)
-  - [Husky](#husky)
-- [SDLC](#sdlc)
-  - [Library Development](#library-development)
-  - [Code Reviews](#code-reviews)
-- [Leadership](#leadership)
-- [Career](#career)
-- [Productivity](#productivity)
-  - [Email](#email)
-  - [Project Management](#project-management)
-- [Tools](#tools)
-  - [Collaboration](#collaboration)
-  - [Web Libraries](#web-libraries)
-  - [UI Libraries](#ui-libraries)
-- [Architecture](#architecture)
+[Table of Contents](#table-of-contents)
 
 ## Specific Technologies
 
@@ -91,3 +75,24 @@ A curated set of links that I have found helpful throughout my tech career. I wi
 ## Architecture
 
 - 📺 [10 Software Design Patterns](https://www.youtube.com/watch?v=tv-_1er1mWI&utm_source=ptallen63_links)
+
+## Table of Contents
+
+- [Specific Technologies](#specific-technologies)
+  - [Command Line Tools](#command-line-tools)
+  - [Git](#git)
+  - [Husky](#husky)
+- [SDLC](#sdlc)
+  - [Library Development](#library-development)
+  - [Code Reviews](#code-reviews)
+- [Leadership](#leadership)
+- [Career](#career)
+- [Productivity](#productivity)
+  - [Email](#email)
+  - [Project Management](#project-management)
+- [Tools](#tools)
+  - [Collaboration](#collaboration)
+  - [Web Libraries](#web-libraries)
+  - [UI Libraries](#ui-libraries)
+- [Architecture](#architecture)
+- [Table of Contents](#table-of-contents)
