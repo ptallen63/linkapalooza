@@ -44,6 +44,7 @@ A curated set of links that I have found helpful throughout my tech career. I wi
 
 - 📄 [The Dunning-Kruger Effect: Cautionary Tale for Leaders](https://www.verywellmind.com/an-overview-of-the-dunning-kruger-effect-4160740?utm_source=ptallen63_links)
 - 📄 [Why Inclusive Leaders are Good For Organizations and How to Become One](https://hbr.org/2019/03/why-inclusive-leaders-are-good-for-organizations-and-how-to-become-one?utm_source=ptallen63_links)
+- 📄 [14 Principles that every CTO must have](https://rodrigomelgar.medium.com/14-principles-that-every-cto-must-have-77045dff4c49)
 
 ## Career
 
