@@ -74,6 +74,7 @@ A curated set of links that I have found helpful throughout my tech career. I wi
 ### UI Libraries
 
 - 🌐 [Mantine](https://mantine.dev/pages/basics/?utm_source=ptallen63_links)
+- 🌐 [Preline - TailwindsCSS driven ui](https://preline.co/docs/alerts.html)
 
 ## Architecture
 
