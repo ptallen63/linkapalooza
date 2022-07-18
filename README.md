@@ -13,6 +13,7 @@ A curated set of links that I have found helpful throughout my tech career. I wi
 - 📄 [Mightnight Commander](https://midnight-commander.org/?utm_source=ptallen63_links)
 - 🐙 [fzf - General Purpose Command Line Fuzzy Finder](https://github.com/junegunn/fzf?utm_source=ptallen63_links)
 - 🐙 [Bat - The new way to `cat` files](https://github.com/sharkdp/bat?utm_source=ptallen63_links)
+- 🐙 [Dashlane CLI](https://github.com/Dashlane/dashlane-cli)
 
 ### Git
 
