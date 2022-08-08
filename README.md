@@ -27,6 +27,9 @@ A curated set of links that I have found helpful throughout my tech career. I wi
 
 - 📄 [Using Husky - Husky docs](https://typicode.github.io/husky/#/?utm_source=ptallen63_links)
 
+### Authentication & Authorization 
+- 📺 [What is SSO](https://www.youtube.com/watch?v=t2Cnn1o2DG4)
+
 ## SDLC
 
 ### Library Development
