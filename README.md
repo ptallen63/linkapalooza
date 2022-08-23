@@ -30,6 +30,9 @@ A curated set of links that I have found helpful throughout my tech career. I wi
 ### Authentication & Authorization 
 - 📺 [What is SSO](https://www.youtube.com/watch?v=t2Cnn1o2DG4)
 
+### Typescript
+- 📺 [Inference in TS w/ Zod](https://www.youtube.com/watch?v=RmGHnYUqQ4k)
+
 ## SDLC
 
 ### Library Development
