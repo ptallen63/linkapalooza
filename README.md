@@ -67,6 +67,7 @@ A curated set of links that I have found helpful throughout my tech career. I wi
 
 - 📄 [Project Management at Big tech](https://blog.pragmaticengineer.com/project-management-at-big-tech/?utm_source=ptallen63_links)
 - 📄 [PM & EM Rules of Engagment](https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/)
+- 📄 [Engineering Metrics](https://lucasfcosta.com/2022/08/31/engineering-metrics.html)
 
 ## Tools
 
